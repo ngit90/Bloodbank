@@ -1,0 +1,145 @@
+body,td,th {
+	font-family: Trebuchet MS;
+	font-size: 12px;
+	color: #9E2E2E;
+}
+body {
+	background-color: #651B1B;
+	margin-top: 75px;
+	margin-bottom:0px;
+	text-align:center;
+	height: 820px;
+}
+a:link {
+	text-decoration: underline;
+	color: #9E2E2E;
+}
+a:visited {
+	text-decoration: underline;
+	color: #9E2E2E;
+}
+a:hover {
+	text-decoration: none;
+	color: #EA6E6E;
+}
+a:active {
+	text-decoration: underline;
+	color: #9E2E2E;
+}
+#wrapper{
+width:791px;
+margin:0 auto 3px 194px;
+background:url(images/bg_03.gif) repeat-y;
+text-align:left;
+	height: 892px;
+}
+#header{
+text-align:center;
+padding-top:25px;
+width:799px;
+background:url(images/header_03.gif) no-repeat center top;
+height:77px;
+}
+h1{
+margin:0;
+color:#fff;
+font-size:30px;
+font-weight:bold;
+}
+h1 span{
+font-weight:normal;
+color:#FFE3E0;
+text-decoration:underline;
+}
+h1 span a, h1 span a:link, h1 span a:visited{
+font-weight:normal;
+color:#FFE3E0;
+}
+h1 a:link,h1 a:visited{
+color:#fff;
+text-decoration:underline;
+}
+h1 a:hover{
+text-decoration:none;
+}
+#content{
+width:760px;
+padding-left:20px;
+padding-right:20px;
+	height: 711px;
+	margin-bottom: 5px;
+}
+#leftcolumn{
+width:223px;
+padding-left:10px;
+float:left;
+	height: 540px;
+}
+#rightcolumn{
+width:490px;
+padding-right:10px;
+float:right;
+	height: 790px;
+}
+.clear{
+clear:both;
+	height: 0px;
+}
+h2{
+color:#9E2E2E;
+padding-top:5px;
+padding-bottom:5px;
+margin:none;
+font-size:24px;
+}
+h2 span{
+display:none;
+}
+h2#recentwork{
+background:url(images/recent_07.gif) left no-repeat;
+margin-left:30px;
+height:36px;
+margin:0;
+}
+h2#contactdetails{
+background:url(images/contact_15.gif) no-repeat top left;
+height:35px;
+margin-top:20px;
+margin-left:30px;
+}
+.box{
+background:#FCC9C9 top left url(images/box_07.gif) no-repeat;
+border:1px solid #EFA6A6;
+width:90%;
+padding-left:5%;
+padding-right:5%;
+padding-top:10px;
+padding-bottom:10px;
+color:#EA6E6E;
+}
+h3{
+margin:0;
+color:#9E2E2E;
+font-size:18px;
+font-weight:normal;
+}
+.icon{
+padding-right:10px;
+}
+.nav{
+padding: 5px 5%;
+width:91%;
+    margin-bottom:5px;
+    border-bottom:2px solid #B14848;
+    background:#FCC9C9;
+}
+#footer{
+width:778px;
+background:url('images/footer_27.gif') no-repeat left bottom;
+height:27px;
+padding-top:15px;
+text-align:center;
+	margin-top: 49px;
+	margin-left: 2px;
+	margin-bottom: 0px;
+}
